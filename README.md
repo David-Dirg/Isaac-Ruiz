@@ -14,10 +14,11 @@ Estudiante de **Inteligencia de Negocios** en el **Tecnológico de Monterrey** y
 ## Mi Portafolio de Proyectos 
 
 Aquí puedes explorar mis proyectos destacados:
-
-* **[Análisis Predictivo de Retención de Clientes (test_app)](https://github.com/David-Dirg/test_app)** Un pipeline completo en Python y modelo de regresión logística para predecir el abandono de clientes (churn) e identificar factores clave de riesgo para el negocio.
+* [Predicción de Abandono de Clientes - Beta Bank](https://github.com/David-Dirg/beta-bank-churn-prediction): Pipeline de Machine Learning en Python optimizado para mitigar la pérdida de usuarios en la institución financiera. Implementa técnicas de balanceo de clases (ajuste de pesos y sobremuestreo) y optimización de hiperparámetros en un Bosque Aleatorio, alcanzando un F1-score de 0.61 y un AUC-ROC de 0.85 para identificar proactivamente al 64% de los clientes en riesgo.
 
 * **[Aplicación Web de Análisis de Vehículos (proyecto_vehiculos)](https://github.com/David-Dirg/proyecto_vehiculos)** Desarrollo de una interfaz web interactiva con Python (Pandas y Plotly Express) desplegada en vivo a través de Render. Permite al usuario explorar un inventario automotriz de EE. UU. mediante herramientas visuales dinámicas para analizar la relación entre precio y kilometraje.
+
+* * **[Análisis Predictivo de Retención de Clientes (test_app)](https://github.com/David-Dirg/test_app)** Un pipeline completo en Python y modelo de regresión logística para predecir el abandono de clientes (churn) e identificar factores clave de riesgo para el negocio.
 
 ---
 
